@@ -1,0 +1,5 @@
+Flask
+render_template
+requests
+
+boto3
